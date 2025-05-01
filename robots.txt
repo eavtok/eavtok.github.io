@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raw.githubusercontent.com/eavtok/eavtok.github.io/refs/heads/prod/uploads/2025/5/1/sitemap.txt
